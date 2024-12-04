@@ -2,7 +2,7 @@
 # Lab 01: Linux Logging Implementation
 ## Student Information
 - **Name:** [Frederik Kruusimäe]
-- **Repository URL:** []
+- **Repository URL:** [https://github.com/frederikkruusmae/monitooring]
 - **Date:** [04.12.24]
 
 ## Environment Setup
