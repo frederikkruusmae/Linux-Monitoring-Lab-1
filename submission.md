@@ -2,7 +2,7 @@
 # Lab 01: Linux Logging Implementation
 ## Student Information
 - **Name:** [Frederik Kruusimäe]
-- **Repository URL:** [https://github.com/frederikkruusmae/monitooring]
+- **Repository URL:** [https://github.com/frederikkruusmae/Zabbix-Monitoring-Lab-1]
 - **Date:** [04.12.24]
 
 ## Environment Setup
